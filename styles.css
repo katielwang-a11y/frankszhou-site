@@ -113,7 +113,8 @@ h2 {
 }
 
 .section-head {
-  display: inline-block;
+  display: block;
+  width: fit-content;
   margin-bottom: 1.4rem;
   padding: .7rem 1.35rem .65rem;
   border-bottom: 0;
