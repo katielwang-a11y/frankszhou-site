@@ -203,6 +203,14 @@ p { margin: 0 0 1.15rem; }
   .paper-figure img { max-width: 42rem; }
 }
 
+.paper-caption {
+  max-width: 42rem;
+  margin: .45rem 0 0;
+  color: var(--muted);
+  font-size: .85rem;
+  line-height: 1.5;
+}
+
 .meta {
   margin: .35rem 0 0;
   color: var(--muted);
